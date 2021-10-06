@@ -1,1 +1,7 @@
+#ajwa
 google.com, pub-5463895807294141, DIRECT, f08c47fec0942fa0
+#maverick
+google.com, pub-2552918512728962, DIRECT, f08c47fec0942fa0
+#morning
+google.com, pub-5463895807294141, DIRECT, f08c47fec0942fa0
+
