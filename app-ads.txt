@@ -6,3 +6,5 @@ google.com, pub-2552918512728962, DIRECT, f08c47fec0942fa0
 google.com, pub-9061106499347713, DIRECT, f08c47fec0942fa0
 #Facebook Ads account
 facebook.com, 2565117116914114, DIRECT, c3e20eee3f780d68
+#sc & nerds
+google.com, pub-4986248143575464, DIRECT, f08c47fec0942fa0
