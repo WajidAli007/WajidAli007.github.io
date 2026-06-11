@@ -1,0 +1,577 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 11 0 R /MediaBox [ 0 0 612 792 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author (Wajid Ali) /CreationDate (D:20260611224804+00'00') /Creator (\(unspecified\)) /Keywords (Android, Kotlin, Jetpack Compose, Senior Android Engineer, Mobile Developer, Dubai) /ModDate (D:20260611224804+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Senior Android Engineer Resume) /Title (Wajid Ali - Senior Android Engineer Resume) /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+>>
+endobj
+10 0 obj
+<<
+/Length 8678
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 731.6 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL 205.69 0 Td (WAJID ALI) Tj T* -205.69 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 716.6 cm
+q
+.101961 .243137 .431373 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL 178.2655 0 Td (SENIOR ANDROID ENGINEER) Tj T* -178.2655 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 688.6 cm
+q
+BT 1 0 0 1 0 15 Tm 36.8355 0 Td 12 TL /F1 9 Tf .266667 .294118 .341176 rg (Dubai, United Arab Emirates  ) Tj (|) Tj (  +971 52 633 0885  ) Tj (|) Tj (  wajidali937@gmail.com  ) Tj (|) Tj (  linkedin.com/in/wajidali3042  ) Tj (|) Tj ( ) Tj T* 126.2565 0 Td (github.com/WajidAli007  ) Tj (|) Tj (  wajidali007.github.io) Tj T* -163.092 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 684.6 cm
+Q
+q
+1 0 0 1 49.2 664.6 cm
+q
+.101961 .243137 .431373 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 662.8 cm
+q
+.8 w
+1 J
+.101961 .243137 .431373 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 589.2 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 60.4 Tm /F1 9.2 Tf 11.6 TL (Senior Android Engineer with 11+ years of experience designing, building, and shipping native Android applications used by) Tj T* (millions of users worldwide. Expert in Kotlin, Jetpack Compose, and modern app architecture \(MVVM/MVI, Clean Architecture,) Tj T* (multi-module\). Proven record of measurable impact: cut release time by 40% through CI/CD automation, reduced crashes by) Tj T* (25% via profiling and static analysis, and delivered SDK and platform solutions for T-Mobile and Unity. Security-focused) Tj T* (engineer \(CompTIA Security+, CEH in progress\) and AWS Certified Cloud Practitioner, with hands-on experience integrating) Tj T* (AI/LLM-powered features into mobile products.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 569.2 cm
+q
+.101961 .243137 .431373 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 567.4 cm
+q
+.8 w
+1 J
+.101961 .243137 .431373 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 552 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Languages:) Tj /F1 8.9 Tf ( Kotlin, Java, Python, Bash, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 527.2 cm
+q
+BT 1 0 0 1 0 13.9 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Android & UI:) Tj /F1 8.9 Tf ( Jetpack Compose, Material 3, Compose Multiplatform, Kotlin Multiplatform \(KMP\), XML Views, Navigation) Tj T* (Component, CameraX, Media3 / ExoPlayer, App Widgets, Deep Links, Notifications & FCM, In-App Updates / Billing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 502.4 cm
+q
+BT 1 0 0 1 0 13.9 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Architecture:) Tj /F1 8.9 Tf ( MVVM, MVI, MVP, Clean Architecture, Multi-Module Design, SOLID, Repository Pattern, Dependency Injection) Tj T* (\(Hilt, Dagger 2, Koin\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 477.6 cm
+q
+BT 1 0 0 1 0 13.9 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Concurrency & Data:) Tj /F1 8.9 Tf ( Kotlin Coroutines, Flow / StateFlow, RxJava, Room, DataStore, SQLite, Retrofit, OkHttp, Ktor, REST,) Tj T* (GraphQL, gRPC, WorkManager, Paging 3, Offline-First Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 452.8 cm
+q
+BT 1 0 0 1 0 13.9 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Testing & Quality:) Tj /F1 8.9 Tf ( JUnit 5, MockK, Espresso, Compose UI Testing, Turbine, Robolectric, detekt, ktlint, Android Lint, LeakCanary,) Tj T* (Android Profiler, Baseline Profiles, R8 / ProGuard, Macrobenchmark, Crashlytics, ANR / Memory Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 428 cm
+q
+BT 1 0 0 1 0 13.9 Tm -0.077553 Tw 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Build & Release:) Tj /F1 8.9 Tf ( Gradle \(Kotlin DSL\), Version Catalogs, GitHub Actions, Jenkins, GitLab CI, Fastlane, Google Play Console, AAB) Tj T* 0 Tw (/ Signed Releases, Firebase App Distribution, JFrog Artifactory, GitHub Packages, Play Feature Delivery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 391.8 cm
+q
+BT 1 0 0 1 0 25.3 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Mobile Security:) Tj /F1 8.9 Tf ( OWASP MASVS / Top 10, Android Keystore, Encryption at Rest & in Transit, SSL / Certificate Pinning, OAuth) Tj T* (2.0, JWT, Biometric Authentication, Secure Storage, Code Obfuscation, Static / Dynamic Analysis \(SonarQube, Snyk, OWASP) Tj T* (ZAP, Burp Suite\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 367 cm
+q
+BT 1 0 0 1 0 13.9 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (AI / ML on Mobile:) Tj /F1 8.9 Tf ( LLM API Integration \(Claude, GPT, Gemini\), Prompt Engineering, RAG, ML Kit, TensorFlow Lite, MediaPipe,) Tj T* (AI Chatbots & Assistants) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 353.6 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.4 TL /F2 8.9 Tf .105882 .121569 .152941 rg (Cloud & Tools:) Tj /F1 8.9 Tf ( AWS \(EC2, S3, Lambda, IAM\), Firebase Suite, Docker, Kubernetes, Git, Jira, Agile / Scrum) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 333.6 cm
+q
+.101961 .243137 .431373 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 331.8 cm
+q
+.8 w
+1 J
+.101961 .243137 .431373 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 314.8 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.8 Tf 12 TL (Senior Software Engineer \227 Avrioc Technologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 303.8 cm
+q
+.266667 .294118 .341176 rg
+BT 1 0 0 1 0 2.2 Tm /F3 8.8 Tf 11 TL (Dubai, United Arab Emirates | Sep 2025 \226 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 278.8 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Lead native Android development on high-scale consumer products, owning architecture decisions, feature delivery, and) Tj T* (code quality across the mobile codebase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 254.3 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Drive adoption of Jetpack Compose, Kotlin Coroutines/Flow, and multi-module Clean Architecture to improve build times,) Tj T* (testability, and developer velocity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 241.3 cm
+q
+BT 1 0 0 1 2 2.3 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 2.3 Tm /F1 9.2 Tf 11.5 TL -0.109914 Tw (Mentor engineers through design reviews and pairing, raising team standards for performance, security, and maintainability.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 49.2 224.3 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.8 Tf 12 TL (Android Engineer \227 Unity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 213.3 cm
+q
+.266667 .294118 .341176 rg
+BT 1 0 0 1 0 2.2 Tm /F3 8.8 Tf 11 TL (Dubai, United Arab Emirates | Oct 2022 \226 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 188.3 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Engineered high-performance, security-hardened system-level Android applications in Kotlin across diverse hardware) Tj T* (platforms, supporting millions of users globally.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 163.8 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Cut app release time by 40% by designing automated CI/CD pipelines with GitHub Actions, eliminating manual release) Tj T* (steps and enabling repeatable, traceable deployments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 139.3 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Reduced runtime crashes by 25% through systematic performance profiling \(Android Profiler, memory/ANR analysis\) and) Tj T* (static code analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 114.8 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Accelerated issue resolution by 30% by integrating real-time analytics and structured crash/feedback reporting into) Tj T* (engineering workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 90.3 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Streamlined versioning and artifact management with Gradle and GitHub Packages, delivering reliable, fully traceable) Tj T* (releases across multiple applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 65.8 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Raised code quality through rigorous peer reviews and enforced linting \(lint, ktlint, detekt\), measurably improving) Tj T* (maintainability and reducing review cycles.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+11 0 obj
+<<
+/Length 8524
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 741.6 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.8 Tf 12 TL (Android Engineer \(Contract, Remote\) \227 T-Mobile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 730.6 cm
+q
+.266667 .294118 .341176 rg
+BT 1 0 0 1 0 2.2 Tm /F3 8.8 Tf 11 TL (United States | Jul 2021 \226 Jul 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 705.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Architected a modular, high-performance Android analytics SDK \(Kotlin\) unifying data collection from Google Analytics,) Tj T* (Facebook, Adobe Analytics, and proprietary services across T-Mobile apps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 681.1 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Engineered a fully remote-configurable design enabling analytics providers to be switched dynamically without code) Tj T* (changes or releases in host applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 656.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Built end-to-end Jenkins CI/CD with automated unit tests, lint/ktlint static analysis, AAR generation, and Slack build) Tj T* (notifications for real-time engineering feedback.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 632.1 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Automated artifact versioning and distribution via JFrog Artifactory, making every SDK release traceable, reproducible, and) Tj T* (instantly available to QA and external integrators.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 607.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Drove SDK adoption through clean public APIs, performance optimization, and comprehensive integration documentation,) Tj T* (reducing integration time from days to hours.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 590.6 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.8 Tf 12 TL (Senior Software Engineer \227 Absoluit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 579.6 cm
+q
+.266667 .294118 .341176 rg
+BT 1 0 0 1 0 2.2 Tm /F3 8.8 Tf 11 TL (Islamabad, Pakistan | Jun 2018 \226 Jul 2021) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 554.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Led native Android development of complete ride-hailing platforms \(Christiania Taxi, Umi Rides\), owning rider, driver, and) Tj T* (in-vehicle tablet applications end-to-end.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 530.1 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Built real-time location features at the product core: GPS navigation with live traffic, driver tracking \(Google Maps API\),) Tj T* (geolocation pickup, and two-way rider-driver communication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 505.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Engineered always-on driver tablet apps handling background location, connectivity drops, and battery/memory constraints) Tj T* (in production vehicles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 481.1 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Implemented secure onboarding \(SMS OTP\), scheduled bookings, ratings/feedback, and in-vehicle safety features; owned) Tj T* (signed releases and Google Play publishing for multiple live apps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 456.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Acted as senior engineer for direct international client collaboration \(EU\), translating business requirements into technical) Tj T* (specifications and mentoring junior developers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 439.6 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.8 Tf 12 TL (Software Engineer / Senior Software Engineer \227 TEO International) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 428.6 cm
+q
+.266667 .294118 .341176 rg
+BT 1 0 0 1 0 2.2 Tm /F3 8.8 Tf 11 TL (Islamabad, Pakistan | Sep 2016 \226 Jun 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 403.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Delivered native Android apps including NABUFIT \(global fitness platform featuring international sports stars\) with Google) Tj T* (Fit integration, social feeds, groups, and advanced search.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 379.1 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Built QuScan, a QR-based customer feedback and live-chat platform reducing business response times from hours to) Tj T* (seconds.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 354.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Championed Scrum practices and cross-functional collaboration; recognized for advanced debugging, performance) Tj T* (optimization, and app maintenance across the product portfolio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 337.6 cm
+q
+.105882 .121569 .152941 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.8 Tf 12 TL (Associate Software Engineer \227 Seerat Soft) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 326.6 cm
+q
+.266667 .294118 .341176 rg
+BT 1 0 0 1 0 2.2 Tm /F3 8.8 Tf 11 TL (Islamabad, Pakistan | Feb 2015 \226 Aug 2016) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 301.6 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Developed and maintained native Android applications for international clients: new feature development, debugging,) Tj T* (redesigns, and performance improvements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 277.1 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+.105882 .121569 .152941 rg
+BT 1 0 0 1 12 13.8 Tm /F1 9.2 Tf 11.5 TL (Contributed across the stack where needed, including desktop \(Java, C#\), web \(PHP, JSP\), and MySQL database) Tj T* (applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 257.1 cm
+q
+.101961 .243137 .431373 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (CERTIFICATIONS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 255.3 cm
+q
+.8 w
+1 J
+.101961 .243137 .431373 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 239.8 cm
+q
+BT 1 0 0 1 2 2.3 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm 11.5 TL /F2 9.2 Tf .105882 .121569 .152941 rg (CompTIA Security+) Tj /F1 9.2 Tf ( \227 CompTIA | Issued Dec 2024 \(valid through Dec 2027\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 226.8 cm
+q
+BT 1 0 0 1 2 2.3 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm 11.5 TL /F2 9.2 Tf .105882 .121569 .152941 rg (AWS Certified Cloud Practitioner) Tj /F1 9.2 Tf ( \227 Amazon Web Services | Issued Nov 2024 \(valid through Nov 2027\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 213.8 cm
+q
+BT 1 0 0 1 2 2.3 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+BT 1 0 0 1 12 2.3 Tm 11.5 TL /F2 9.2 Tf .105882 .121569 .152941 rg (Certified Ethical Hacker \(CEH\)) Tj /F1 9.2 Tf ( \227 EC-Council | In progress \(expected 2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 189.3 cm
+q
+BT 1 0 0 1 2 13.8 Tm /F1 10 Tf 12 TL .105882 .121569 .152941 rg (\177) Tj ET
+BT 1 0 0 1 12 13.8 Tm 11.5 TL /F2 9.2 Tf .105882 .121569 .152941 rg (Professional courses:) Tj /F1 9.2 Tf ( Python for Automation; Mastering Jenkins CI/CD; CI/CD with GitLab; Ansible Configuration) Tj T* (Management; Flutter Essential Training; Agile Foundations \(LinkedIn Learning\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 169.3 cm
+q
+.101961 .243137 .431373 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 167.5 cm
+q
+.8 w
+1 J
+.101961 .243137 .431373 RG
+n 0 0 m 513.6 0 l S
+Q
+Q
+q
+1 0 0 1 49.2 151.9 cm
+q
+BT 1 0 0 1 0 2.4 Tm 11.6 TL /F2 9.2 Tf .105882 .121569 .152941 rg (Bachelor of Science in Computer Science) Tj /F1 9.2 Tf ( \227 Pakistan | Graduated 2016) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000446 00000 n 
+0000000640 00000 n 
+0000000834 00000 n 
+0000000902 00000 n 
+0000001304 00000 n 
+0000001369 00000 n 
+0000010099 00000 n 
+trailer
+<<
+/ID 
+[<220a6fe9a8e82727f66c967badd79a8f><220a6fe9a8e82727f66c967badd79a8f>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 12
+>>
+startxref
+18675
+%%EOF
