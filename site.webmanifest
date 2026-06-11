@@ -1,0 +1,13 @@
+{
+  "name": "Wajid Ali — Senior Android Engineer",
+  "short_name": "Wajid Ali",
+  "description": "Portfolio of Wajid Ali, Senior Android Engineer specializing in Kotlin, AI/LLM, cybersecurity and cloud.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0b10",
+  "theme_color": "#0a0b10",
+  "icons": [
+    { "src": "img/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
